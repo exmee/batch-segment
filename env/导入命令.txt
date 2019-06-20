@@ -1,0 +1,3 @@
+导入命令：conda env export --file batch-segment.yml
+
+如导入命令无法下载则可以建立虚拟环境直接运行程序，根据报错下载包
